@@ -1,0 +1,2 @@
+# hdtechnology
+code adict
